@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Two inputs for phase and frequency comparison (PFD1IN and PFD2IN) using DFlip Flops and AND for reset, Two inputs for Phase comparison only (PD1IN and PD2IN), Clock Division for Feedback path in PLL configurations using Dflip flops
 
 ## How to test
 
-Explain how to use your project
+Flick the switches so that the waveforms lead or lag eachother or connect square wave signals as inputs.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Could use input signal from sig gen or additional comparator with another signal.
